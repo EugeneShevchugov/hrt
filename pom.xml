@@ -58,6 +58,8 @@
 			<groupId>com.github.yvasyliev</groupId>
 			<artifactId>java-vk-bots-longpoll-api</artifactId>
 			<version>4.1.5</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/java-vk-bots-longpoll-api-4.1.5.jar</systemPath>
 		</dependency>
 
 		<dependency>
